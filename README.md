@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jackmy02
+- 👀 I’m interested in go and python.
+- 🌱 I’m currently learning go.
